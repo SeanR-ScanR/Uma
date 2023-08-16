@@ -59,5 +59,30 @@
         ]
       }
     }
-  }
+  },
+     "100": {
+      "title": "Uma 100",
+      "volume": "0",
+      "last_updated": "1692183366",
+      "groups": {
+        "ScanR": [
+          "https://i.postimg.cc/PJB5y7xV/01-redraw.jpg",
+          "https://i.postimg.cc/5NC0yf7h/02.jpg",
+          "https://i.postimg.cc/pV7rPmZQ/03.jpg",
+          "https://i.postimg.cc/MpJGjggv/04.jpg",
+          "https://i.postimg.cc/N0gfdmst/05.jpg",
+          "https://i.postimg.cc/Px7Xf7mf/06.jpg",
+          "https://i.postimg.cc/VNDspvvC/07.jpg",
+          "https://i.postimg.cc/9M0Xh2wN/08.jpg",
+          "https://i.postimg.cc/nhKhK0tT/09.jpg",
+          "https://i.postimg.cc/6qG98h0r/10.jpg",
+          "https://i.postimg.cc/pybPznGg/11.jpg",
+          "https://i.postimg.cc/7PC718tV/12.jpg",
+          "https://i.postimg.cc/tCWxfdjn/13.jpg",
+          "https://i.postimg.cc/FHvLQfrW/14.jpg",
+          "https://i.postimg.cc/fbTSJ60Y/16.jpg",
+          "https://i.postimg.cc/sgJZfV1V/18.jpg"
+        ]
+      }
+    }
 }
